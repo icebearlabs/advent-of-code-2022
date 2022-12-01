@@ -1,0 +1,12 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "part1": "node part1.js ./list.txt",
+    "part2": "node part2.js ./list.txt"
+  },
+  "author": "",
+  "license": "ISC"
+}
